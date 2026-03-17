@@ -12,4 +12,5 @@ Sakshar represents a significant step towards democratizing digital literacy edu
 • Launch Smriti - our upcoming project focused on heritage preservation and cultural education (currently in development with some resources pending upload)
 • Partner with educational institutions and NGOs for broader reach
 • Implement AR/VR modules for immersive learning experiences
+<img width="1933" height="237" alt="image" src="https://github.com/user-attachments/assets/53cbcafa-ae69-49fa-bb06-59e49302bc81" />
 
