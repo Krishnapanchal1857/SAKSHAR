@@ -6,7 +6,7 @@ this is a simple webside made using html , css and javascript
 Sakshar represents a significant step towards democratizing digital literacy education. By combining user-centric design with accessible technology, we aim to empower individuals from all backgrounds to thrive in the digital age. Our platform addresses critical gaps in digital education accessibility while building a supportive community of learners.
 <img width="4146" height="62" alt="image" src="https://github.com/user-attachments/assets/52b899f0-2d85-4307-86e3-521cbd9d36f6" />
 
-# Futurw Scope
+# Future Scope
 •Expand to multiple regional languages for wider accessibility
 • Integrate AI-powered personalized learning paths
 • Develop mobile applications for Android and iOS
